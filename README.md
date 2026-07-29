@@ -9,7 +9,7 @@ Welcome to my certifications repository. This repository contains certificates t
 | Certificate | Provider | Status |
 |-------------|----------|--------|
 | Data Analytics & Business Intelligence | AlmaBetter | ✅ Completed |
-| Data Visualization Tools with Power BI | AlmaBetter | ✅ Completed |
+| Data Visualization Tools with Power BI | AlmaBetter | ✅ Completed | 
 | Relational Databases | AlmaBetter | ✅ Completed |
 | Numerical Programming in Python | AlmaBetter | ✅ Completed |
 | Applied Statistics Interview Grind | AlmaBetter | ✅ Completed |
