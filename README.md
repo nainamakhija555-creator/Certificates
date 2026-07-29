@@ -8,10 +8,11 @@ Welcome to my certifications repository. This repository contains certificates t
 
 | Certificate | Provider | Status |
 |-------------|----------|--------|
+| Data Analytics & Business Intelligence | AlmaBetter | ✅ Completed |
 | Data Visualization Tools with Power BI | AlmaBetter | ✅ Completed |
 | SQL for Data Analysis and Database Management | AlmaBetter | ✅ Completed |
 | Numerical Programming in Python | AlmaBetter | ✅ Completed |
-| Data Analytics & Business Intelligence | ✅ Completed |
+
 
 
 ---
