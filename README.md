@@ -1,5 +1,4 @@
-# Certificates
-# 📜 My Certifications
+#  My Certifications
 
 Welcome to my certifications repository. This repository contains certificates that showcase my learning and professional development in Data Analytics, Python, SQL, Power BI, and related technologies.
 
